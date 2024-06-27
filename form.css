@@ -1,0 +1,36 @@
+* {
+    background-color: aliceblue;
+    text-align: center;
+}
+.link {
+    word-spacing: 25px;
+    margin-bottom: 8px;
+}
+ input {
+    border-radius: 25%;
+    padding: 10px;
+ }
+ 
+ .buts {
+    padding: 10px 64px;
+    border-radius: 50px;
+    background-image: linear-gradient(lightblue,blue);
+    color: white;
+ }
+.signup {
+    margin-top: 100px;
+}
+.containers {
+margin-top: 50px;   
+}
+.pan {
+    font-size: 40px;
+}
+.input {
+    padding: 10px 54px;
+    border-radius: 1%;
+}
+.bot {
+    padding: 10px 24px;
+    background-image: linear-gradient(lightblue,blue);
+}
